@@ -1,4 +1,5 @@
-Website Geek adventures is an example of website for developers to find software development conferences.
+Website Geek adventures is an example of website for developers to find software development conferences. 
+You can check it live demo on netlify. Demo link: https://geek-add-adventures.netlify.com/.
 
 
 The website is fully responsive for devices of different resolution screen, and it is cross browser compatible.
